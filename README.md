@@ -51,7 +51,8 @@ The Back buttons on the activity forms return the user to the Choose Form.
 
 **Screenshot:** Save an image as `screenshots/choose-form.png`.
 
-![Choose Form](screenshots/choose-form.png)
+<img width="796" height="482" alt="lab 2 choose form" src="https://github.com/user-attachments/assets/7bd7a6bb-c138-412c-ac59-c15b303718fa" />
+
 
 ### 3. Bicycle Rental Form
 
@@ -59,7 +60,8 @@ The Bicycle Rental Form provides the bicycle rental interface. The user enters o
 
 **Screenshot:** Save an image as `screenshots/bicycle-form.png`.
 
-![Bicycle Rental Form](screenshots/bicycle-form.png)
+<img width="822" height="551" alt="lab 2 bicycle form" src="https://github.com/user-attachments/assets/a37ea244-cce2-4521-aaa4-2c89300bfbb4" />
+
 
 ### 4. Mushroom Identifier Form
 
@@ -69,7 +71,8 @@ The questions include whether the mushroom has a ring, grows in a forest, has a 
 
 **Screenshot:** Save an image as `screenshots/mushroom-form.png`.
 
-![Mushroom Identifier Form](screenshots/mushroom-form.png)
+<img width="752" height="530" alt="lab 2 mushroom form" src="https://github.com/user-attachments/assets/87515956-3651-405b-87e6-e3114d4683fe" />
+
 
 ---
 
@@ -89,9 +92,6 @@ The questions include whether the mushroom has a ring, grows in a forest, has a 
 
 When the user answers the questions and reaches a result, the application displays a message box titled **Result** with a message in this format:
 
-```text
-Your mushroom is: [Mushroom Name]
-```
 
 The mushroom names configured in the decision tree are:
 
@@ -104,28 +104,18 @@ The mushroom names configured in the decision tree are:
 
 For example:
 
-```text
-Title: Result
-
-Your mushroom is: Agaric Jaunissant
-```
-
 The actual mushroom name depends on the user's answers.
+<img width="746" height="527" alt="lab 2 mashroom form guessing the mushroom" src="https://github.com/user-attachments/assets/ca76cf56-301c-4715-a2e0-0d0f6cb5169c" />
+
 
 ### Bicycle rental output
 
 After the user provides the rental information and performs the calculation, the calculated total amount is displayed in the form's total amount text box.
 
-**Example output:** `[Insert the actual total amount displayed by your application here.]`
+**Example output:** <img width="820" height="561" alt="lab 2 bicycle form calculating" src="https://github.com/user-attachments/assets/560f6103-c943-4d90-96db-deb3e4f8ccdb" />
 
-### Login output
 
-- **Successful login:** `[Insert the exact success message or next-screen behavior.]`
-- **Unsuccessful login:** `[Insert the exact error message displayed by your application.]`
 
-Replace the bracketed examples with the exact messages and values shown by your running application so that the README matches the actual program.
-
----
 
 ## Technologies Used
 
@@ -178,25 +168,6 @@ Lab1/
 └── .gitignore
 ```
 
-## Screenshots
-
-Create a folder named `screenshots` in the same directory as this README file. Capture each form while the application is running, save the images using the filenames shown below, and add them to that folder.
-
-| Screenshot filename | What to capture |
-|---|---|
-| `login-form.png` | The Login Form |
-| `choose-form.png` | The Choose Form showing both activity options |
-| `bicycle-form.png` | The Bicycle Rental Form with a sample calculation |
-| `mushroom-form.png` | The Mushroom Identifier Form showing a question |
-| `mushroom-result.png` | A result message box after answering the questions |
-
-After saving the result screenshot, display it in this README by adding:
-
-```markdown
-![Mushroom Result](screenshots/mushroom-result.png)
-```
-
----
 
 ## Author
 
