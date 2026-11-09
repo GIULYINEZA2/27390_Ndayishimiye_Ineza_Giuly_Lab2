@@ -201,9 +201,4 @@ After saving the result screenshot, display it in this README by adding:
 
 **Ndayishimiye Ineza Giuly**  
 **Student ID:** 27390  
-**Course:** .NET Programming with C#
-"""
-
-path = Path("/mnt/data/README_Lab1.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
+**Course:** .NET
