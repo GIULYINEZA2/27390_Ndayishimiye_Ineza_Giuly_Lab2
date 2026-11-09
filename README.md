@@ -19,7 +19,7 @@ A C# .NET Windows Forms application developed for the **.NET Programming with C#
 - [Requirements](#requirements)
 - [How to Run the Application](#how-to-run-the-application)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
+
 
 ---
 
