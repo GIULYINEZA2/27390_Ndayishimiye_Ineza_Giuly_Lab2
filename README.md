@@ -37,7 +37,8 @@ The Login Form is the entry point of the application. It provides the interface 
 
 **Screenshot:** Save an image as `screenshots/login-form.png`.
 
-![Login Form](screenshots/login-form.png)
+<img width="796" height="482" alt="lab 2 login form " src="https://github.com/user-attachments/assets/5456229b-3c69-486b-a4ac-b8f5af932875" />
+
 
 ### 2. Choose Form
 
